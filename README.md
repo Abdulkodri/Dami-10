@@ -1,2 +1,2 @@
-# Dami-10
+# Classification project
 Pulsar star classification
